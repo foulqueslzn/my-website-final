@@ -1,0 +1,17 @@
+.btn-grey{
+	background-color: steelblue;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+}
+
+.btn-grey:hover{
+	color: grey;
+	background-color: black;
+
+}
+
+a{
+	text-decoration: none;
+}
